@@ -157,6 +157,6 @@ The full op-ed style write-up is available at:
 
 ## Citation / Contact
 
-**Tanusha Mukund** — tmukund2@illinois.edu  
+**Tanusha Mukund** — tmukund2@illinois.edu / mukundtanusha@gmail.com
 MSBA Student Ambassador, University of Illinois Urbana-Champaign  
 BADM 534 — Prof. Unnati Narang — Spring 2026
