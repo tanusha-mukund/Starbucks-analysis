@@ -145,7 +145,7 @@ starbucks-campus-analytics/
 ## Blog Post
 
 The full op-ed style write-up is available at:  
-📝 [Medium — Premium Is a Perception, Not a Price]([https://medium.com/@mukundtanusha/what-our-campus-starbucks-taught-us-about-the-limits-of-premium-pricing-81abb5f5c289])
+📝 [Medium — Premium Is a Perception, Not a Price](https://medium.com/@mukundtanusha/what-our-campus-starbucks-taught-us-about-the-limits-of-premium-pricing-81abb5f5c289)
 
 
 ---
