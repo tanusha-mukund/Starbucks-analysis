@@ -147,11 +147,6 @@ starbucks-campus-analytics/
 The full op-ed style write-up is available at:  
 📝 [Medium — Premium Is a Perception, Not a Price](https://medium.com/@mukundtanusha/8969774e8810)
 
----
-
-## Related Reading
-
-- Liaukonyte, Tuchman & Zhu (2024). ["Lessons from the Bud Light Boycott, One Year Later."](https://hbr.org) *Harvard Business Review* — on how brand identity and consumer psychological ownership shape the durability of purchase behavior changes.
 
 ---
 
