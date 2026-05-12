@@ -1,6 +1,6 @@
 # Premium Is a Perception, Not a Price
 ### Marketing Analytics of Campus Starbucks — UIUC Illini Union
-**BADM 534 · Data Analytics Marketing · University of Illinois Urbana-Champaign**  
+Data Analytics Marketing · University of Illinois Urbana-Champaign
 **Team 2 · Tanusha Mukund · Suyash Sawant · Avish Shakwala · Priyal Agarwal**
 
 ---
